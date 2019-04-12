@@ -1,1 +1,1 @@
-include ':app', ':myservice', 'fragmenttabhostsamples'
+include ':app', ':myservice', ':mybutterknife', 'fragmenttabhostsamples'
